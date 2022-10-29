@@ -1,0 +1,13 @@
+[
+	{ "nombre": "cristiano", "edad": "45", "sexo": "masculino" },
+	{ "nombre": "ronaldo", "edad": "34", "sexo": "masculino" },
+	{ "nombre": "camila", "edad": "13", "sexo": "femenino" },
+	{ "nombre": "karen", "edad": 15, "sexo": "femenino" },
+	{ "nombre": "alejandro", "edad": "14", "sexo": "masculino" },
+	{ "nombre": "camilo", "edad": "34", "sexo": "masculino" },
+	{ "nombre": "ryan", "edad": "20", "sexo": "masculino" },
+	{ "nombre": "diana", "edad": 25, "sexo": "femenino" }
+ 
+
+]
+ 

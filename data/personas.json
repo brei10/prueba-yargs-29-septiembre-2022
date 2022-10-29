@@ -1,0 +1,6 @@
+[
+	{ "nombre": "breiner", "edad": "17", "sexo": "masculino" },
+	{ "nombre": "messi", "edad": "34", "sexo": "masculino" },
+	{ "nombre": "shakira", "edad": "50", "sexo": "femenino" },
+	{ "nombre": "maria", "edad": 25, "sexo": "femenino" }
+]
